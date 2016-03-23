@@ -1,0 +1,15 @@
+.node {
+  cursor: pointer;
+  stroke: #3182bd;
+  shape-margintroke-width: 1.5px;
+}
+
+.link {
+  fill: none;
+  stroke: #9ecae1;
+  stroke-width: 1.5px;
+}
+
+svg {
+  background-color: #efefef;
+}
